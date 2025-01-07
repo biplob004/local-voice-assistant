@@ -1,4 +1,4 @@
-# Local Voice Assistant
+# Local Voice Assistant (No internet required)
 
 ## Video Demonstration
 [![YouTube Video](https://img.youtube.com/vi/8RtIh5jhp38/0.jpg)](https://www.youtube.com/watch?v=8RtIh5jhp38)
